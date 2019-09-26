@@ -2,6 +2,8 @@
 
 ### Web 前端
 
+- `2019-09-26` [font-carrier 生成字体操作记录](https://segmentfault.com/a/1190000020506440)
+- `2019-09-26` [Linaria 替换 Emotion 操作记录](https://segmentfault.com/a/1190000020500927)
 - `2019-06-26` [积梦前端 Meson Form 的分层抽象设计](https://segmentfault.com/a/1190000019582729)
 - `2019-06-14` [前端代码兼容 Chrome 44 的部分操作记录](https://segmentfault.com/a/1190000019477441)
 - `2016-05-11` [积梦前端的路由方案 ruled-router](https://segmentfault.com/a/1190000019143914)

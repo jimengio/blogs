@@ -2,6 +2,7 @@
 
 ### Web 前端
 
+- `2019-12-31` [折腾前端条形码(Barcode)扫描识别, 笔记](https://segmentfault.com/a/1190000021450639)
 - `2010-10-11` [TypeScript 用 Webpack/ts-node 运行的配置记录](https://segmentfault.com/a/1190000020650656)
 - `2019-09-26` [font-carrier 生成字体操作记录](https://segmentfault.com/a/1190000020506440)
 - `2019-09-26` [Linaria 替换 Emotion 操作记录](https://segmentfault.com/a/1190000020500927)
